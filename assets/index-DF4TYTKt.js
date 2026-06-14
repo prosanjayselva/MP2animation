@@ -43,6 +43,7 @@ Error generating stack: `+o.message+`
 <meta charset="UTF-8">\r
 <meta name="viewport" content="width=device-width, initial-scale=1.0">\r
 <title>MP2 Animation Studio — We Bring Stories to Life</title>\r
+<link rel="icon" href="/logo.jpeg">\r
 <link rel="preconnect" href="https://fonts.googleapis.com">\r
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Syne:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">\r
 <style>\r
