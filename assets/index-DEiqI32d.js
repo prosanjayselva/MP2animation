@@ -1510,7 +1510,7 @@ footer {\r
         <div class="hero-stat-label">Client Satisfaction</div>\r
       </div>\r
       <div class="hero-stat">\r
-        <div class="hero-stat-num">6+</div>\r
+        <div class="hero-stat-num">2.5+</div>\r
         <div class="hero-stat-label">Years Experience</div>\r
       </div>\r
     </div>\r
@@ -1529,11 +1529,11 @@ footer {\r
       <div class="intro-visual-main">\r
         <img src="/homepage.jpeg" alt="MP2 Animation Studio workspace">\r
       </div>\r
-      <div class="intro-badge">MP2<br>Since<br>2018</div>\r
+      <div class="intro-badge">MP2<br>Since<br>2021</div>\r
     </div>\r
     <div class="intro-content reveal reveal-delay-1">\r
       <div class="section-label">About the Studio</div>\r
-      <h2 class="section-title">Crafting <em>Visual Magic</em> Since 2018</h2>\r
+      <h2 class="section-title">Crafting <em>Visual Magic</em> Since 2021</h2>\r
       <p class="section-sub">\r
         MP2 Animation Studio is a premier creative agency specializing in motion\r
         storytelling. We blend artistic vision with cutting-edge technique to deliver\r
@@ -1909,11 +1909,11 @@ footer {\r
         <h4>Contact</h4>\r
         <div class="footer-contact-item">\r
           <span class="footer-contact-icon">📧</span>\r
-          <span>mp2animationstudio@gmail.com</span>\r
+          <a href="mailto:mp2animationstudio@gmail.com">mp2animationstudio@gmail.com</a>\r
         </div>\r
         <div class="footer-contact-item">\r
           <span class="footer-contact-icon">📞</span>\r
-          <span>+91 8610759752</span>\r
+          <a href="tel:+918610759752">+91 8610759752</a>\r
         </div>\r
         <div class="footer-contact-item">\r
           <span class="footer-contact-icon">📍</span>\r
@@ -2182,7 +2182,7 @@ footer {\r
     <div class="page-hero-content">\r
       <div class="section-label">Our Story</div>\r
       <h1 class="section-title" style="font-size:clamp(2rem,4.5vw,3.2rem);">About <em>MP2</em> Studio</h1>\r
-      <p class="section-sub" style="margin-bottom:0;">A passionate team of animators and designers committed to visual excellence since 2018.</p>\r
+      <p class="section-sub" style="margin-bottom:0;">A passionate team of animators and designers committed to visual excellence since 2021.</p>\r
     </div>\r
   </div>\r
 \r
@@ -2193,7 +2193,7 @@ footer {\r
         <img class="about-logo-big" src="/works/poun.png" alt="MP2 team portrait">
       </div>
       <div class="about-accent-card">
-        <div class="about-accent-num" data-count="6" data-suffix="+">6+</div>
+        <div class="about-accent-num" data-count="2.5" data-suffix="+">2.5+</div>\r
         <div class="about-accent-label">Years of Excellence</div>
       </div>
     </div>
@@ -2201,7 +2201,7 @@ footer {\r
       <div class="section-label">Who We Are</div>\r
       <h2 class="section-title">More Than a Studio —<br><em>Your Creative Partner</em></h2>\r
       <p>
-        Founded in 2018, MP2 Animation Studio was born from a shared belief: that powerful visuals\r
+        Founded in 2021, MP2 Animation Studio was born from a shared belief: that powerful visuals\r
         have the ability to change how people feel about a brand. What started as a two-person motion\r
         graphics team has grown into a full-service creative studio trusted by brands across India and beyond.\r
       </p>\r
