@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import SiteLayout from "../components/SiteLayout";
+import logoSrc from "../assets/logo.jpeg";
 
 function HomePage() {
   return (
@@ -21,7 +22,7 @@ function HomePage() {
             </Link>
           </div>
         </div>
-        <img className="hero-logo" src="/logo.jpeg" alt="MP2 logo" />
+        <img className="hero-logo" src={logoSrc} alt="MP2 logo" />
       </section>
 
       <section className="card-grid">

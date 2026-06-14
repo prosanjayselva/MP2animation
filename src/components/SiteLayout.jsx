@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import { contact } from "../data/siteData";
+import logoSrc from "../assets/logo.jpeg";
 
 const navItems = [
   { to: "/home", label: "Home" },
@@ -15,7 +16,7 @@ function SiteLayout({ children }) {
       <header className="topbar">
         <div className="container topbar-inner">
           <NavLink to="/home" className="brand">
-            <img src="/logo.jpeg" alt="MP2 Animation Studio logo" />
+            <img src={logoSrc} alt="MP2 Animation Studio logo" />
             <span>MP2 Animation Studio</span>
           </NavLink>
           <nav className="nav">
@@ -34,7 +35,7 @@ function SiteLayout({ children }) {
         <div className="container footer-inner">
           <div>
             <div className="brand brand-footer">
-              <img src="/logo.jpeg" alt="MP2 Animation Studio logo" />
+              <img src={logoSrc} alt="MP2 Animation Studio logo" />
               <span>MP2 Animation Studio</span>
             </div>
             <p>{contact.address}</p>

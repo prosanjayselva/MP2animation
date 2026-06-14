@@ -1471,7 +1471,7 @@ footer {
         <div class="hero-stat-label">Client Satisfaction</div>
       </div>
       <div class="hero-stat">
-        <div class="hero-stat-num">6+</div>
+        <div class="hero-stat-num">2.5+</div>
         <div class="hero-stat-label">Years Experience</div>
       </div>
     </div>
@@ -1490,11 +1490,11 @@ footer {
       <div class="intro-visual-main">
         <img src="/homepage.jpeg" alt="MP2 Animation Studio workspace">
       </div>
-      <div class="intro-badge">MP2<br>Since<br>2018</div>
+      <div class="intro-badge">MP2<br>Since<br>2021</div>
     </div>
     <div class="intro-content reveal reveal-delay-1">
       <div class="section-label">About the Studio</div>
-      <h2 class="section-title">Crafting <em>Visual Magic</em> Since 2018</h2>
+      <h2 class="section-title">Crafting <em>Visual Magic</em> Since 2021</h2>
       <p class="section-sub">
         MP2 Animation Studio is a premier creative agency specializing in motion
         storytelling. We blend artistic vision with cutting-edge technique to deliver
@@ -1649,7 +1649,7 @@ footer {
     <div class="works-grid">
       <div class="work-card reveal">
         <div class="work-card-bg work-card-bg-1">
-          <video src="/works/animation-story.mp4" autoplay muted loop playsinline></video>
+          <video src="/works/adventure-preview.mp4" autoplay muted loop playsinline></video>
         </div>
         <div class="work-play">▶</div>
         <div class="work-card-overlay">
@@ -1870,11 +1870,11 @@ footer {
         <h4>Contact</h4>
         <div class="footer-contact-item">
           <span class="footer-contact-icon">📧</span>
-          <span>mp2animationstudio@gmail.com</span>
+          <a href="mailto:mp2animationstudio@gmail.com">mp2animationstudio@gmail.com</a>
         </div>
         <div class="footer-contact-item">
           <span class="footer-contact-icon">📞</span>
-          <span>+91 8610759752</span>
+          <a href="tel:+918610759752">+91 8610759752</a>
         </div>
         <div class="footer-contact-item">
           <span class="footer-contact-icon">📍</span>
@@ -2042,7 +2042,7 @@ footer {
     <div class="portfolio-grid" id="portfolio-grid">
       <div class="portfolio-card reveal" data-cat="animation">
         <div class="portfolio-thumb">
-          <div class="portfolio-thumb-bg"><video src="/works/animation-story.mp4" autoplay muted loop playsinline></video></div>
+          <div class="portfolio-thumb-bg"><video src="/works/adventure-preview.mp4" autoplay muted loop playsinline></video></div>
           <div class="portfolio-thumb-btn">▶ Watch Project</div>
         </div>
         <div class="portfolio-info">
@@ -2143,7 +2143,7 @@ footer {
     <div class="page-hero-content">
       <div class="section-label">Our Story</div>
       <h1 class="section-title" style="font-size:clamp(2rem,4.5vw,3.2rem);">About <em>MP2</em> Studio</h1>
-      <p class="section-sub" style="margin-bottom:0;">A passionate team of animators and designers committed to visual excellence since 2018.</p>
+      <p class="section-sub" style="margin-bottom:0;">A passionate team of animators and designers committed to visual excellence since 2021.</p>
     </div>
   </div>
 
@@ -2154,7 +2154,7 @@ footer {
         <img class="about-logo-big" src="/works/poun.png" alt="MP2 team portrait">
       </div>
       <div class="about-accent-card">
-        <div class="about-accent-num" data-count="6" data-suffix="+">6+</div>
+        <div class="about-accent-num" data-count="2.5" data-suffix="+">2.5+</div>
         <div class="about-accent-label">Years of Excellence</div>
       </div>
     </div>
@@ -2162,7 +2162,7 @@ footer {
       <div class="section-label">Who We Are</div>
       <h2 class="section-title">More Than a Studio —<br><em>Your Creative Partner</em></h2>
       <p>
-        Founded in 2018, MP2 Animation Studio was born from a shared belief: that powerful visuals
+        Founded in 2021, MP2 Animation Studio was born from a shared belief: that powerful visuals
         have the ability to change how people feel about a brand. What started as a two-person motion
         graphics team has grown into a full-service creative studio trusted by brands across India and beyond.
       </p>
@@ -2253,24 +2253,19 @@ footer {
     <h2 class="section-title reveal reveal-delay-1">Meet Our <em>Creative Team</em></h2>
     <div class="team-grid" style="margin-top:2rem;">
       <div class="team-card reveal">
-        <div class="team-avatar">M</div>
-        <div class="team-name">Mihail Patel</div>
-        <div class="team-role">Creative Director</div>
+        <div class="team-avatar">V</div>
+        <div class="team-name">Vijai D</div>
+        <div class="team-role">Content Creator</div>
       </div>
       <div class="team-card reveal reveal-delay-1">
-        <div class="team-avatar">P</div>
-        <div class="team-name">Priya Sharma</div>
-        <div class="team-role">Lead Animator</div>
+        <div class="team-avatar">K</div>
+        <div class="team-name">Kamalesh B</div>
+        <div class="team-role">Graphics Designer</div>
       </div>
       <div class="team-card reveal reveal-delay-2">
         <div class="team-avatar">A</div>
-        <div class="team-name">Arjun Nair</div>
-        <div class="team-role">Motion Designer</div>
-      </div>
-      <div class="team-card reveal reveal-delay-3">
-        <div class="team-avatar">Z</div>
-        <div class="team-name">Zara Khan</div>
-        <div class="team-role">Brand Strategist</div>
+        <div class="team-name">Abisheck Pandiyan R</div>
+        <div class="team-role">Video Editor</div>
       </div>
     </div>
   </section>

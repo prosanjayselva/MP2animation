@@ -6,8 +6,12 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "postinstall": "patch-package"
   },
+  "homepage": "https://mp2animationstudio.in",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -16,6 +20,8 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.3.0",
+    "patch-package": "^8.0.1",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
     "vite": "^5.4.10"

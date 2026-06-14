@@ -1,5 +1,5 @@
 export const contact = {
-  phone: "+91 8610759752",
+  phone: "+91 861 075 9752",
   email: "mp2animationstudio@gmail.com",
   address: "244, Manapparai, Trichy Dist. 621-312",
   map: "https://maps.app.goo.gl/x8EtuEj4t6UGy1PH6",

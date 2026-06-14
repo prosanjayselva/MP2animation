@@ -1,14 +1,15 @@
 import SiteLayout from "../components/SiteLayout";
+import logoSrc from "../assets/logo.jpeg";
 
 function AboutPage() {
   return (
     <SiteLayout>
       <section className="section-head">
         <p className="eyebrow">About</p>
-        <h1>Creative partners since 2018.</h1>
+        <h1>Creative partners since 2021.</h1>
       </section>
       <section className="about-grid">
-        <img src="/logo.jpeg" alt="MP2 logo" className="about-logo" />
+        <img src={logoSrc} alt="MP2 logo" className="about-logo" />
         <div>
           <p>
             MP2 Animation Studio was founded with one goal: help brands communicate with stronger visual language.
