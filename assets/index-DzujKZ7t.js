@@ -2655,4 +2655,4 @@ window.addEventListener('load', () => {\r
 <\/script>\r
 </body>\r
 </html>\r
-`,Bi="/MP2animation/";function Lf(){const e=Nf.replace(/="\//g,`="${Bi}`).replace(/='\//g,`='${Bi}`).replace(/url\(\//g,`url(${Bi}`);return es.jsx("iframe",{title:"MP2 Animation Studio",srcDoc:e,style:{width:"100%",height:"100vh",border:"0",display:"block"}})}$i.createRoot(document.getElementById("root")).render(es.jsx(Lf,{}));
+`,Bi="/";function Lf(){const e=Nf.replace(/="\//g,`="${Bi}`).replace(/='\//g,`='${Bi}`).replace(/url\(\//g,`url(${Bi}`);return es.jsx("iframe",{title:"MP2 Animation Studio",srcDoc:e,style:{width:"100%",height:"100vh",border:"0",display:"block"}})}$i.createRoot(document.getElementById("root")).render(es.jsx(Lf,{}));
