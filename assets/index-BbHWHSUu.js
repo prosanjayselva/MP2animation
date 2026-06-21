@@ -1579,7 +1579,7 @@ footer {\r
 </div>\r
 \r
 <!-- WhatsApp Float -->\r
-<a class="wa-float" href="https://wa.me/919626560695" target="_blank" title="Chat on WhatsApp">\r
+<a class="wa-float" href="https://wa.me/918610759752" target="_blank" title="Chat on WhatsApp">\r
   <div class="wa-float-pulse"></div>\r
   💬\r
 </a>\r
@@ -1998,7 +1998,7 @@ footer {\r
           <a class="social-icon" href="https://www.instagram.com/mp2animationstudios?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="Instagram">&#128247;</a>\r
           <a class="social-icon" href="https://www.linkedin.com/company/119464012/admin/notifications/all/" target="_blank" title="LinkedIn">&#128188;</a>\r
           <a class="social-icon" href="https://www.facebook.com/search/top/?q=MP2%20Animation%20Studio" target="_blank" title="Facebook">&#128101;</a>\r
-          <a class="social-icon" href="https://wa.me/919626560695" target="_blank" title="WhatsApp">&#128172;</a>\r
+          <a class="social-icon" href="https://wa.me/918610759752" target="_blank" title="WhatsApp">&#128172;</a>\r
         </div>\r
       </div>\r
       <div class="footer-col">\r
@@ -2030,7 +2030,7 @@ footer {\r
         </div>\r
         <div class="footer-contact-item">\r
           <span class="footer-contact-icon">📞</span>\r
-          <a href="tel:+919626560695">+91 9626560695</a>\r
+          <a href="tel:+918610759752">+91 8610759752</a>\r
         </div>\r
         <div class="footer-contact-item">\r
           <span class="footer-contact-icon">📍</span>\r
@@ -2162,7 +2162,7 @@ footer {\r
     <p>Let's discuss your vision and craft something extraordinary together. Get a free consultation today.</p>\r
     <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;position:relative;">\r
       <a class="btn-primary" href="#" onclick="navigateTo('contact');return false;">Get a Free Quote →</a>\r
-      <a class="wa-btn" href="https://wa.me/919626560695" target="_blank">\r
+      <a class="wa-btn" href="https://wa.me/918610759752" target="_blank">\r
         💬 WhatsApp Us Now\r
       </a>\r
     </div>\r
@@ -2482,7 +2482,7 @@ footer {\r
         <div class="contact-info-icon">📞</div>\r
         <div>\r
           <h4>Call Us</h4>\r
-          <p>+91 9626560695</p>\r
+          <p>+91 8610759752</p>\r
         </div>\r
       </div>\r
       <div class="contact-info-item">\r
@@ -2504,7 +2504,7 @@ footer {\r
         <a class="social-pill" href="https://www.instagram.com/mp2animationstudios?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">&#128247; Instagram</a>\r
         <a class="social-pill" href="https://www.linkedin.com/company/119464012/admin/notifications/all/" target="_blank">&#128188; LinkedIn</a>\r
         <a class="social-pill" href="https://www.facebook.com/search/top/?q=MP2%20Animation%20Studio" target="_blank">&#128101; Facebook</a>\r
-        <a class="social-pill" href="https://wa.me/919626560695" target="_blank">&#128172; WhatsApp</a>\r
+        <a class="social-pill" href="https://wa.me/918610759752" target="_blank">&#128172; WhatsApp</a>\r
       </div>\r
 \r
       <div class="map-placeholder">
@@ -2538,7 +2538,7 @@ footer {\r
           <div class="form-row">\r
             <div class="form-group">\r
               <label>Phone Number</label>\r
-              <input type="tel" id="f-phone" placeholder="+91 9626560695">\r
+              <input type="tel" id="f-phone" placeholder="+91 8610759752">\r
             </div>\r
             <div class="form-group">\r
               <label>Project Type *</label>\r
@@ -2569,7 +2569,7 @@ footer {\r
           <h3>Message Sent!</h3>\r
           <p>Thank you for reaching out. Our team will review your project and get back to you within 24 hours.<br><br>Meanwhile, feel free to WhatsApp us for a quicker response.</p>\r
           <br>\r
-          <a class="wa-btn" href="https://wa.me/919626560695" target="_blank" style="display:inline-flex;margin-top:8px;">\r
+          <a class="wa-btn" href="https://wa.me/918610759752" target="_blank" style="display:inline-flex;margin-top:8px;">\r
             💬 Continue on WhatsApp\r
           </a>\r
         </div>\r
@@ -2582,7 +2582,7 @@ footer {\r
           <h4 style="font-family:var(--font-ui);font-weight:700;margin-bottom:4px;">Prefer WhatsApp?</h4>\r
           <p style="font-size:0.8rem;color:var(--white-dim);">Get a faster response directly through WhatsApp chat.</p>\r
         </div>\r
-        <a class="wa-btn" href="https://wa.me/919626560695" target="_blank">Chat Now →</a>\r
+        <a class="wa-btn" href="https://wa.me/918610759752" target="_blank">Chat Now →</a>\r
       </div>\r
     </div>\r
   </div>\r
@@ -2755,7 +2755,7 @@ function submitForm() {\r
   }\r
 \r
   const text = \`*New Project Enquiry*\\n\\n*Name:* \${name}\\n*Email:* \${email}\\n*Phone:* \${phone || 'Not provided'}\\n*Service:* \${type}\\n*Message:* \${msg}\`;\r
-  const url = \`https://wa.me/919626560695?text=\${encodeURIComponent(text)}\`;\r
+  const url = \`https://wa.me/918610759752?text=\${encodeURIComponent(text)}\`;\r
   window.open(url, '_blank');\r
 \r
   document.getElementById('form-content').style.display = 'none';\r
